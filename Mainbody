@@ -1,0 +1,20 @@
+<Key features>
+
+<Each feature will be commonly named "bara" as easier reminder and simplicity.
+
+/Hardware intercations:
+  
+  -Monitor light change:
+    -Based on gps coordinates.
+    -Average timing of productivity based on the light hours time of the location.
+
+/Software interactions:
+
+ *Activity remienders:
+  -Eye relaxation movements.
+  -Posture correction.
+  -Arms and legs streching (light to high intervals)
+  -Breating exercises (waking up or relaxion breaths), based on users actual energy levels.
+
+ *Puntuation feedback in order to improve variations (age, location, gender, etnicity) recomendations.
+  -Each accepted "bara"" to be tracked will create data, for predictions on users with posibility of giving it to a database for further optimization of other users.
